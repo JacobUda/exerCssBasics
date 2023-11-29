@@ -192,7 +192,7 @@ a:active{
 
 }
 
-.my-list li:last-child{
+.my-list li:last-child(12){
     background: blue;
 }
 
